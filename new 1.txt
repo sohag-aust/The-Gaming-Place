@@ -1,0 +1,35 @@
+<tr>
+						     <td>BATTLEFIELD1: XBOX one</td>
+						     <td>1</td>
+						     <td>$75.67</td>
+						  </tr>
+						  
+						  <tr>
+						     <td>RECOR: XBOX one</td>
+						     <td>1</td>
+						     <td>$67.79</td>
+						  </tr>
+						  
+						  <tr>
+						     <td>UNCHARTED1: PS4</td>
+						     <td>1</td>
+						     <td>$49.67</td>
+						  </tr>
+						  
+						  <tr>
+						     <td colspan="3" class="cart-subtotal">
+							    SubTotal: $179.97
+							 </td>
+						  </tr>
+						  
+						  <tr>
+						     <td colspan="3" class="cart-shipping">
+							    Shipping: $4.99
+							 </td>
+						  </tr>
+						  
+						  <tr>
+						     <td colspan="3" class="cart-total">
+							    Total: $179.97
+							 </td>
+						  </tr>
